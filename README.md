@@ -28,7 +28,7 @@ Steps to install and run Github.
 ## Usage 
 https://ofarrell23.github.io/-05-Third-Party-APIs-Work-Day-Scheduler/
 
-![alt.text](assets/Calendar.png)
+![Screenshot](assets/Schedule.png)
 
 ## Credits
 
